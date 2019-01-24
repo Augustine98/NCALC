@@ -1,5 +1,5 @@
 # NCALC
-![alt-text](/Untitled%20drawing.png)
+![](/ncalc_Images/log.png)
 A Numerical Calculator written in C++ for use in MS- DOS
 
 Overview of the project: 
