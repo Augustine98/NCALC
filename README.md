@@ -1,5 +1,5 @@
 # NCALC
-![alt-text](https://drive.google.com/uc?id=1TIjY8Q5I1B6l2tIpgP_EJjBL6B0WhBCYpIpoFtAUGFQ)
+![alt-text](/Untitled%20drawing.png)
 A Numerical Calculator written in C++ for use in MS- DOS
 
 Overview of the project: 
