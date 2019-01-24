@@ -34,3 +34,9 @@ II. Ensure that you enter the values in the right data type, and according to th
 specified restrictions.
 III. Always enter values, considering the domain of the function.For example, log(0)
 will give an error.
+
+
+## Screenshots 
+![](ncalc_Images/grap4.png)
+---
+![](ncalc_Images/2.jpg)
